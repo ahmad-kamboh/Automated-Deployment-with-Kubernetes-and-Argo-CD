@@ -1,5 +1,7 @@
 K8s Kind Voting App
+
 A comprehensive guide for setting up a Kubernetes cluster using Kind on an AWS EC2 instance, installing and configuring Argo CD, and deploying applications using Argo CD.
+![image](https://github.com/user-attachments/assets/dfb83645-6c07-44fd-a886-7b3859b25c44)
 
 Overview
 This guide covers the steps to:
@@ -12,7 +14,7 @@ Set up the Kubernetes Dashboard.
 Install and configure Argo CD.
 Connect and manage your Kubernetes cluster with Argo CD.
 Architecture
-![Image](https://github.com/user-attachments/assets/7dff9711-56f7-47f3-bf19-95fbcb02a41c)
+
 
 Observability
 ![image](https://github.com/user-attachments/assets/c15b2643-9532-4230-a580-2d70c892bde3)
@@ -29,6 +31,7 @@ Project Title:
 Automated Deployment of Scalable Applications on AWS EC2 with Kubernetes and Argo CD
 
 Description:
+
 Led the deployment of scalable applications on AWS EC2 using Kubernetes and Argo CD for streamlined management and continuous integration. Orchestrated deployments via Kubernetes dashboard, ensuring efficient resource utilization and seamless scaling.
 
 Key Technologies:
@@ -38,7 +41,6 @@ Argo CD: Continuous Delivery tool for automated application deployments.
 Achievements:
 Implemented Kubernetes dashboard for visual management of containerized applications on AWS EC2 instances. Utilized Argo CD for automated deployment pipelines, enhancing deployment efficiency by 60%. Achieved seamless scaling and high availability, supporting 99.9% uptime for critical applications. This project description emphasizes your role in leveraging AWS EC2, Kubernetes, and Argo CD to optimize application deployment and management processes effectively.
 
-Aapke DevOps Wale Bhaiya
 
 📞 Contact Information
 
